@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+
+<!--BACKTEST REALGAME READONLY-->
+<gameMode> READONLY </gameMode>
+
+
+<!--TELEGRAM CONSOLE  -->
+<outputMode> TELEGRAM </outputMode>
+
+
+<Count> 5 </Count>
+
+<Type0>
+    <startPoint> 2 </startPoint>
+    <maxBetNumber> 4   </maxBetNumber>
+    <primaryPrice> 0.47 </primaryPrice>
+    <profitRatio> 1.49 </profitRatio>
+    <threshold>	150 </threshold>
+    <incBetRate>  4  </incBetRate>
+</Type0>
+
+<Type1>
+    <startPoint> 3 </startPoint>
+    <maxBetNumber> 4   </maxBetNumber>
+    <primaryPrice> 0.53 </primaryPrice>
+    <profitRatio> 1.58 </profitRatio>
+    <threshold>	160 </threshold>
+    <incBetRate>  3.8  </incBetRate>
+</Type1>
+
+<Type2> 
+    <startPoint> 4 </startPoint>
+    <maxBetNumber> 4   </maxBetNumber>
+    <primaryPrice> 0.62 </primaryPrice>
+    <profitRatio> 1.68 </profitRatio>
+    <threshold>	170 </threshold>
+    <incBetRate>  3.6  </incBetRate>
+</Type2>
+
+<Type3> 
+    <startPoint> 5 </startPoint>
+    <maxBetNumber> 4   </maxBetNumber>
+    <primaryPrice> 0.72 </primaryPrice>
+    <profitRatio> 1.8 </profitRatio>
+    <threshold>	180 </threshold>
+    <incBetRate>  3.4  </incBetRate>
+</Type3>
+
+
+<Type4>
+    <startPoint> 5 </startPoint>
+    <maxBetNumber> 4   </maxBetNumber>
+    <primaryPrice> 0.84 </primaryPrice>
+    <profitRatio> 1.9 </profitRatio>
+    <threshold>	190 </threshold>
+    <incBetRate>  3.2  </incBetRate>
+</Type4>
+
+<Type5>
+    <startPoint> 6 </startPoint>
+    <maxBetNumber> 4   </maxBetNumber>
+    <primaryPrice> 1 </primaryPrice>
+    <profitRatio> 1.98 </profitRatio>
+    <threshold>	198 </threshold>
+    <incBetRate>  3  </incBetRate>
+</Type5>
+
+</metadata>
